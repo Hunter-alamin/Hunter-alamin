@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on python
 - 🤔 I’m looking for help with Facebook // Like
 - 💬 Ask me about Python
-- 📫 How to reach me: [FACEBOOK](https://www.facebook.com/alaminkhan.60)
+- 📫 How to reach me: [FACEBOOK](https://www.facebook.com/alaminkhan.60)[https://www.facebook.com/alaminkhan.60]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a normal User
 -->
