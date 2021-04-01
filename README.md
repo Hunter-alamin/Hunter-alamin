@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a normal User
 -->
-<b>🔰🔰🔰🔰</b> </br> <br>[![Github](https://img.shields.io/badge/Github-HUNTERBOY_ALAMIN-green?style=flat-square&logo=githublogoColor=blue&labelColor=blue)](https://github.com/DevillHunter)<br> [![Facebook](https://img.shields.io/badge/Facebook-HUNTERBOY_ALAMIN-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/alaminkhan.60)
+<b>🔰🔰🔰🔰</b> </br></b>[</br> <br>[[![Github](https://img.shields.io/badge/Github-[HUNTERBOY_ALAMIN-green?style=flat-square&logo=GITHUBlogoColor=blue&labelColor=blue)](https://github.com/DevillHunter)]<br> [_[![Facebook](https://img.shields.io/badge/Facebook-HUNTERBOY_ALAMIN-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/alaminkhan.60)_]
 
 <b>🔰🔰🔰🔰<b>
 ![](https://github-readme-stats.vercel.app/api?username=DevillHunter&&show_icons=true&title_color=ffffff&icon_color=tokyonight&text_color=daf7dc&bg_color=151515)
