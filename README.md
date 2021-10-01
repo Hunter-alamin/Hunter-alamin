@@ -12,7 +12,7 @@
 <a href="https://github.com/Hunter-alamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hunter-alamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 # PROFILE STATICS >>>>>>
-![Profile views](https://gpvc.arturio.dev/Hunter-alamin)
+![PROFILE VIEWERS](https://gpvc.arturio.dev/Hunter-alamin)
 
 # ABOUT ME >>>>
 <li> 😇 <i> MUSLIM</i></li>
