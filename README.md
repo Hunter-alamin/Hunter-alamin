@@ -1,9 +1,5 @@
 <!--
 **DevillHaunter/DevillHaunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# ABOUT ME
-<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
-<li> 😇 <i>Muslim</i></li>
-<li> 😇 <h1> MUSLIM <\li> <\h1>
 💠 STUDENT & PER TIME PROGRAMMER
 🌚 LEARNING PYTHON & BASH
 - ⚡ Fun fact: I am a normal User
@@ -19,7 +15,7 @@
 ![Profile views](https://gpvc.arturio.dev/Hunter-alamin)
 
 # ABOUT ME >>>>
-<li> 😇 <i>Muslim</i></li>
+<li> 😇 <i> MUSLIM</i></li>
 <li> 🌚 <i>BORNED SINGLE</i></li>
 <li> 💠 <i>STUDENT && PER TIME PROGRAMMER</i></li>
 <li> 🤠 <i>FOCUSING ON PYTHON & BASH </i></li><br>
