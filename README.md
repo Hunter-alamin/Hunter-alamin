@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a normal User
 -->
 # KNOW MORE ABOUT ME >>>>>
-<b>🔰🔰🔰🔰</b> </br></b></br> <br>[[![Github](https://img.shields.io/badge/Github-[HUNTERBOY_ALAMIN-green?style=flat-square&logo=GITHUBlogoColor=blue&labelColor=blue)](https://github.com/Hunter-alamin)]<br> [_[![Facebook](https://img.shields.io/badge/Facebook-HUNTERBOY_ALAMIN-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/alaminkhan.60)_]
+<b>🔰🔰🔰🔰</b> </br></b></br> <br>[[![Github](https://img.shields.io/badge/Github-[HUNTERBOY_ALAMIN]-blue?style=flat-square&logo=GITHUBlogoColor=blue&labelColor=blue)](https://github.com/DevillHunter)] <br> [[![Github](https://img.shields.io/badge/TELEGRAM-[HUNTERBOY_ALAMIN]-red?style=flat-square&logo=TELEGRAMlogoColor=red&labelColor=cyan)](https://t.me/alamin123khan)]<br> [_[![Facebook](https://img.shields.io/badge/Facebook-HUNTERBOY_ALAMIN]-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/alaminkhan.60)_]<br><b>🔰🔰🔰🔰
 <b>🔰🔰🔰🔰<b>
 
 <h3><b><i> Github Statistics :</i></b></h3>
