@@ -1,15 +1,11 @@
 <!--
 **DevillHaunter/DevillHaunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NotepadApi
-- 🌱 I’m currently learning python and Html
-- 👯 I’m looking to collaborate on python
-- 🤔 I’m looking for help with Facebook // Like
-- 💬 Ask me about Python
-- 📫 How to reach me: [FACEBOOK](https://www.facebook.com/alaminkhan.60)[https://www.facebook.com/alaminkhan.60]
-- 😄 Pronouns: He/His
+# ABOUT ME
+<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
+<li> 😇 <i>Muslim</i></li>
+<li> 😇 <h1> MUSLIM <\li> <\h1>
+💠 STUDENT & PER TIME PROGRAMMER
+🌚 LEARNING PYTHON & BASH
 - ⚡ Fun fact: I am a normal User
 -->
 # KNOW MORE ABOUT ME >>>>>
@@ -22,8 +18,13 @@ Here are some ideas to get you started:
 # PROFILE STATICS >>>>>>
 ![Profile views](https://gpvc.arturio.dev/Hunter-alamin)
 
+# ABOUT ME >>>>
+<li> 😇 <i>Muslim</i></li>
+<li> 🌚 <i>BORNED SINGLE</i></li>
+<li> 💠 <i>STUDENT && PER TIME PROGRAMMER</i></li>
+<li> 🤠 <i>FOCUSING ON PYTHON & BASH </i></li><br>
 
-![](https://github-readme-stats.vercel.app/api?username=Hunter-alamin&&show_icons=true&title_color=ffffff&icon_color=tokyonight&text_color=daf7dc&bg_color=151515)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunter-alamin&show_icons=true&theme=radical)
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hunter-alamin&layout=compact&theme=chartreuse-dark" />
 <p align="center">
