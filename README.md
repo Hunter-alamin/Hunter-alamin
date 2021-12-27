@@ -1,6 +1,6 @@
 <!--
 **DevillHaunter/DevillHaunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-💠 STUDENT & PER TIME PROGRAMMER
+💠 STUDENT 
 🌚 LEARNING PYTHON & BASH
 - ⚡ Fun fact: I am a normal User
 -->
